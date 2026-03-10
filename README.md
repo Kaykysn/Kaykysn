@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou Kayky Gomes 👋
 
-<!--
-**Kaykysn/Kaykysn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas - UCAM  
+💻 Focado em desenvolvimento Frontend  
+🚀 Buscando oportunidade de estágio em programação  
 
-Here are some ideas to get you started:
+## Tecnologias que estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- Lógica de Programação
+- Git e GitHub
+
+## Objetivo
+
+Meu objetivo é me tornar um desenvolvedor Frontend profissional e contribuir com projetos que gerem impacto real.
+
+## Projetos
+
+Em breve estarei adicionando projetos práticos desenvolvidos durante meus estudos.
+
+## Contato
+
+LinkedIn: (coloque aqui quando criar)
