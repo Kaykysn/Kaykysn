@@ -55,5 +55,5 @@ Meu objetivo é me tornar um desenvolvedor Frontend profissional e conquistar mi
 
 ## 📫 Contato
 
-LinkedIn:
+LinkedIn: www.linkedin.com/in/kayky-gomes-a07898402
 Email: kaykygomes2004@gmail.com
