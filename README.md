@@ -1,8 +1,8 @@
-# Olá, eu sou Kayky Gomes 👋
+# Olá, eu sou Kayky Gomes 
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas - UCAM  
-💻 Desenvolvedor Frontend em formação  
-🚀 Buscando oportunidade de estágio em desenvolvimento web  
+Estudante de Análise e Desenvolvimento de Sistemas - UCAM  
+Desenvolvedor Frontend em formação  
+Buscando oportunidade de estágio em desenvolvimento web  
 
 ---
 
@@ -16,7 +16,7 @@ Atualmente estou estudando lógica de programação, algoritmos, HTML, CSS e Jav
 
 ---
 
-## 🚀 Tecnologias que estou estudando
+##  Tecnologias que estou estudando
 
 HTML  
 CSS  
@@ -27,7 +27,7 @@ Lógica de Programação
 
 ---
 
-## 📚 Atualmente aprendendo
+##  Atualmente aprendendo
 
 Algoritmos  
 JavaScript  
@@ -47,7 +47,7 @@ Aplicação consumindo API
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Meu objetivo é me tornar um desenvolvedor Frontend profissional e conquistar minha primeira oportunidade de estágio na área de tecnologia.
 
